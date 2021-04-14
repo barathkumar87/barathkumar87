@@ -24,7 +24,16 @@ Experience with the technologies mentioned in the **toolbox** below
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django Logo" width="50" height="50"/> 
 
+
 ---
+
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barathkumar87&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Barath's GitHub stats](https://github-readme-stats.vercel.app/api?username=barathkumar87&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
