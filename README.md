@@ -1,5 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Barath Kumar!
+
+---
+
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Inevitable-Ad4240?label=Reddit%20Profile&style=social)
+
+A Software Engineer specializing in JavaScript Technologies and Ethical Hacking. 
+
+Experience with the technologies mentioned in the **toolbox** below
 
 
 <!--
